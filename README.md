@@ -6,7 +6,7 @@ Frontend aplikasi NodeWave (Vite + React + TypeScript)
 
 1. **Clone repo ini:**
    ```bash
-   git clone https://github.com/USERNAME/nodewave-fe.git
+   git clone https://github.com/rflyadr/nodewave-fe.git
    cd nodewave-fe
    ```
 
